@@ -9,7 +9,7 @@ namespace RW_UnturnedWeapon;
 
 public class ThingComp_ShootgunBullet : ThingComp
 {
-    private bool exctraBulletSpawned;
+    private bool extraBulletSpawned;
 
     private delegate void Projectile_InfoCopyLaunch(Projectile _this, Projectile copySrc);
     private static Projectile_InfoCopyLaunch InfoCopyLaunch;
@@ -79,28 +79,28 @@ public class ThingComp_ShootgunBullet : ThingComp
 
     public override void PostExposeData()
     {
-        Scribe_Values.Look<bool>(ref exctraBulletSpawned, "exctraBulletSpawned");
+        Scribe_Values.Look<bool>(ref extraBulletSpawned, "extraBulletSpawned");
     }
 
     public override void CompTick()
     {
-        if (exctraBulletSpawned || parent is not Projectile || !typeof(Projectile).IsAssignableFrom(parent.def.thingClass))
+        if (extraBulletSpawned || parent is not Projectile || !typeof(Projectile).IsAssignableFrom(parent.def.thingClass))
         {
             return;
         }
-        exctraBulletSpawned = true;
+        extraBulletSpawned = true;
         if (parent.def.comps == null || parent.def.comps.Find(x => x?.compClass != null && typeof(ThingComp_ShootgunBullet).IsAssignableFrom(x.compClass)) == null)
         {
             return;
         }
         Projectile parentAsProjectile = (Projectile)parent;
-        for (int i = 0; i < Properties_ShootgunBullet.exctraBulletCount; i++)
+        for (int i = 0; i < Properties_ShootgunBullet.extraBulletCount; i++)
         {
             Projectile projectile = (Projectile)ThingMaker.MakeThing(parent.def, parent.Stuff);
             ThingComp_ShootgunBullet thingComp = projectile.GetComp<ThingComp_ShootgunBullet>();
             if(thingComp != null)
             {
-                thingComp.exctraBulletSpawned = true;
+                thingComp.extraBulletSpawned = true;
             }
             projectile.Position = parent.Position;
             projectile.SpawnSetup(parent.MapHeld, false);
@@ -116,5 +116,5 @@ public class CompProperties_ShootgunBullet : CompProperties
     {
         compClass = typeof(ThingComp_ShootgunBullet);
     }
-    public uint exctraBulletCount = 0;
+    public uint extraBulletCount = 0;
 }
