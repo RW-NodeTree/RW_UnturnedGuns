@@ -21,12 +21,12 @@ public class ThingComp_ShootgunBullet : ThingComp
 #else
         Type[] parmTypes = [typeof(Thing), typeof(Vector3), typeof(LocalTargetInfo), typeof(LocalTargetInfo), typeof(ProjectileHitFlags), typeof(Thing), typeof(ThingDef)];
 #endif
-        FieldInfo Projectile_launcher = typeof(Projectile).GetField("launcher", BindingFlags.Instance | BindingFlags.NonPublic);
-        FieldInfo Projectile_equipment = typeof(Projectile).GetField("equipment", BindingFlags.Instance | BindingFlags.NonPublic);
-        FieldInfo Projectile_origin = typeof(Projectile).GetField("origin", BindingFlags.Instance | BindingFlags.NonPublic);
-        FieldInfo Projectile_targetCoverDef = typeof(Projectile).GetField("targetCoverDef", BindingFlags.Instance | BindingFlags.NonPublic);
-        FieldInfo Projectile_usedTarget = typeof(Projectile).GetField("usedTarget", BindingFlags.Instance | BindingFlags.NonPublic);
-        FieldInfo Projectile_intendedTarget = typeof(Projectile).GetField("intendedTarget", BindingFlags.Instance | BindingFlags.NonPublic);
+        FieldInfo Projectile_launcher = typeof(Projectile).GetField("launcher", BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+        FieldInfo Projectile_origin = typeof(Projectile).GetField("origin", BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+        FieldInfo Projectile_usedTarget = typeof(Projectile).GetField("usedTarget", BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+        FieldInfo Projectile_intendedTarget = typeof(Projectile).GetField("intendedTarget", BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+        FieldInfo Projectile_equipment = typeof(Projectile).GetField("equipment", BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+        FieldInfo Projectile_targetCoverDef = typeof(Projectile).GetField("targetCoverDef", BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
         MethodInfo Projectile_Lanuch = typeof(Projectile).GetMethod("Launch", parmTypes);
         //        projectile.Launch(
         //            Projectile_launcher(parentAsProjectile),
