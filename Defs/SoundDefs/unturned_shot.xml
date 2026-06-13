@@ -1,0 +1,1038 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <SoundDef>
+        <defName>Unturned_Ace</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Ace</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Augewehr</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Augewehr</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Backlash</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Backlash</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_bane</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/bane</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Bluntforce</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Bluntforce</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_fly_Rocket</defName>
+        <sustain>true</sustain>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <priorityMode>PrioritizeNearest</priorityMode>
+        <subSounds>
+            <li>
+                <tempoAffectedByGameSpeed>true</tempoAffectedByGameSpeed>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Launcher_Rocket_f</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_avenger</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/avenger</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Bulldog</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Bulldog</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Card</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Card</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Chimera</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Chimera</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Cobalt</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Cobalt</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Cobra</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Cobra</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Colt</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Colt</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Dagger</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Dagger</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Desert_Falcon</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Desert_Falcon</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Determinator</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Determinator</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_dragonfang</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/dragonfang</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Eaglefire</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Eaglefire</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Ekho</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Ekho</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Empire</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Empire</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Fury</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Fury_f</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Fury_r</defName>
+        <sustain>true</sustain>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <priorityMode>PrioritizeNearest</priorityMode>
+        <subSounds>
+            <li>
+                <tempoAffectedByGameSpeed>true</tempoAffectedByGameSpeed>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Fury_r</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Fuilaut</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Fuilaut</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Grizzly</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Grizzly</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Hawkhound</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Hawkhound</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Heartbreaker</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Heartbreaker</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Hollowcharge</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Hollowcharge</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Honeybadger</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Honeybadger</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Hospitality</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Hospitality</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_fly_Judgement</defName>
+        <sustain>true</sustain>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <priorityMode>PrioritizeNearest</priorityMode>
+        <subSounds>
+            <li>
+                <tempoAffectedByGameSpeed>true</tempoAffectedByGameSpeed>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Judgement</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Kopis</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Kopis</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Kryzkarek</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Kryzkarek</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Lockdown</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Lockdown</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Luger</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Luger</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Maplestrike</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Maplestrike</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Masterkey</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Masterkey</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Matamorez</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Matamorez</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_MP__</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/MP40</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Nailgun</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Nailgun</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Nightraider</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Nightraider</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Nykorev</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Nykorev</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Orel</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Orel</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Peacemaker</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Peacemaker</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+
+    <SoundDef>
+        <defName>Unturned_Quadbarrel</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Quadbarrel</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Sabertooth</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Sabertooth</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Sawed_off</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Sawed_off</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Scalar</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Scalar</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Schofield</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Schofield</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_shadowstalker</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/shadowstalker</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_shadowstalkerMKII</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/shadowstalkerMK2</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Snayperskya</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Snayperskya</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Sportshot</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Sportshot</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Swissgewehr</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Swissgewehr</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Tekowvka</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Tekowvka</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Timberwolf</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Timberwolf</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_viper</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/viper</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Vonya</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Vonya</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Wezel</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Wezel</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Yuri</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Yuri</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Zubknakov</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Zubknakov</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_b_g</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/b_g</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_b_rl</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/b_rl</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_g_t</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/g_t</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>Unturned_Impact_Grenade</defName>
+        <context>MapOnly</context>
+        <eventNames />
+        <maxSimultaneous>2</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Unturned_shot/Impact_Grenade</clipPath>
+                    </li>
+                </grains>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+</Defs>

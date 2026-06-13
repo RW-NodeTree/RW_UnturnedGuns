@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+    <name>Unturned枪械: Unturned Guns[1.0]</name>
+	<author>[cn]nuclear</author>
+	<url>http://steamcommunity.com/profiles/76561198173739010</url>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<packageId>cnnuclear.UnturnedGuns</packageId>
+	<description>这些枪械都是Unturned的玩过un的都知道，总共有68把Unturned的枪。
+枪械列表《gun list》：
+	Ace
+	Augewehr
+	Avenger
+	Backlash
+	Bane
+	Bluntforce
+	Compound Bow
+	Bulldog
+	Card
+	Chimera
+	Cobalt
+	Cobra
+	Colt
+	Crossbow
+	Dagger
+	Desert Falcon
+	Determinator
+	Dragonfang
+	Eaglefire
+	Ekho
+	Empire
+	Fuilaut
+	Fury
+	Grizzly
+	Hawkhound
+	Heartbreaker
+	Hollowcharge
+	Honeybadger
+	Hospitality
+	Judgement
+	Kopis
+	Kryzkarek
+	Lancer
+	Rocket Launcher
+	Lockdown
+	Luger
+	Maplestrike
+	Masterkey
+	Matamorez
+	MP40
+	Nailgun
+	Nightraider
+	Nykorev
+	Peacemaker
+	Quadbarrel
+	Sabertooth
+	Sawed off
+	Scalar
+	Schofield
+	Shadowstalker
+	ShadowstalkerMKII
+	Snayperskya
+	Sportshot
+	Swissgewehr
+	Tekowvka
+	Timberwolf
+	Viper
+	Vonya
+	Wezel
+	Yuri
+	Zubknakov
+抛投物列表《Grenade List》：
+	Grenade
+	Flashbang
+	smoke Grenade
+	Impact Grenade
+	stickiness Grenade
+	</description>
+</ModMetaData>

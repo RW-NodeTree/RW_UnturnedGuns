@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Frag grenade -->
+
+  <Weapon_Unturned_GrenadeB.label>Unturned破片手雷</Weapon_Unturned_GrenadeB.label>
+  <Weapon_Unturned_GrenadeB.description>破片手雷</Weapon_Unturned_GrenadeB.description>
+  <Weapon_Unturned_GrenadeB.verbs.0.label>扔破片手雷</Weapon_Unturned_GrenadeB.verbs.0.label>
+
+  <Proj_GrenadeB_Unturned.label>Unturned破片手雷</Proj_GrenadeB_Unturned.label>
+
+  <Weapon_Unturned_GrenadeSm.label>Unturned震撼弹</Weapon_Unturned_GrenadeSm.label>
+  <Weapon_Unturned_GrenadeSm.description>震撼弹</Weapon_Unturned_GrenadeSm.description>
+  <Weapon_Unturned_GrenadeSm.verbs.0.label>扔震撼弹</Weapon_Unturned_GrenadeSm.verbs.0.label>
+
+  <Proj_Grenadef_Unturned.label>Unturned震撼弹</Proj_Grenadef_Unturned.label>
+
+  <Weapon_Unturned_GrenadeSw.label>Unturned烟雾弹</Weapon_Unturned_GrenadeSw.label>
+  <Weapon_Unturned_GrenadeSw.description>烟雾弹</Weapon_Unturned_GrenadeSw.description>
+  <Weapon_Unturned_GrenadeSw.verbs.0.label>扔烟雾弹</Weapon_Unturned_GrenadeSw.verbs.0.label>
+
+  <Proj_GrenadeSw_Unturned.label>Unturned烟雾弹</Proj_GrenadeSw_Unturned.label>
+  
+  <Weapon_Unturned_GrenadeIw.label>Unturned粘性手雷</Weapon_Unturned_GrenadeIw.label>
+  <Weapon_Unturned_GrenadeIw.description>粘性手雷</Weapon_Unturned_GrenadeIw.description>
+  <Weapon_Unturned_GrenadeIw.verbs.0.label>扔粘性手雷</Weapon_Unturned_GrenadeIw.verbs.0.label>
+
+  <Proj_GrenadeIw_Unturned.label>Unturned粘性手雷</Proj_GrenadeIw_Unturned.label>
+
+
+  <Weapon_Unturned_GrenadeIm.label>Unturned冲击手雷</Weapon_Unturned_GrenadeIm.label>
+  <Weapon_Unturned_GrenadeIm.description>冲击手雷</Weapon_Unturned_GrenadeIm.description>
+  <Weapon_Unturned_GrenadeIm.verbs.0.label>扔冲击手雷</Weapon_Unturned_GrenadeIm.verbs.0.label>
+
+  <Proj_GrenadeIm_Unturned.label>Unturned冲击手雷</Proj_GrenadeIm_Unturned.label>
+  
+</LanguageData>

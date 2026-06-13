@@ -1,0 +1,71 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>RW_UnturnedWeapon</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <Configurations>
+      DebugV10;ReleaseV10;DebugV11;ReleaseV11;DebugV12;ReleaseV12;DebugV13;ReleaseV13;DebugV14;ReleaseV14;DebugV15;ReleaseV15;DebugV16;ReleaseV16
+    </Configurations>
+    <OutputType>Library</OutputType>
+		<LangVersion>latest</LangVersion>
+		<Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="$(Configuration.Contains('Debug'))">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>portable</DebugType>
+    <Optimize>true</Optimize>
+    <DefineConstants>$(DefineConstants);DEBUG</DefineConstants>
+    <!-- <OutputPath>bin\Debug\</OutputPath> -->
+  </PropertyGroup>
+
+  <PropertyGroup Condition="$(Configuration.Contains('Release'))">
+    <DebugSymbols>false</DebugSymbols>
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <DefineConstants>$(DefineConstants);RELEASE</DefineConstants>
+    <!-- <OutputPath>bin\Release\</OutputPath> -->
+  </PropertyGroup>
+
+  <PropertyGroup Condition="$(Configuration.Contains('V10'))">
+    <GameVersion>V10</GameVersion>
+    <GameVersionNum>1.0</GameVersionNum>
+  </PropertyGroup>
+  <PropertyGroup Condition="$(Configuration.Contains('V11'))">
+    <GameVersion>V11</GameVersion>
+    <GameVersionNum>1.1</GameVersionNum>
+  </PropertyGroup>
+  <PropertyGroup Condition="$(Configuration.Contains('V12'))">
+    <GameVersion>V12</GameVersion>
+    <GameVersionNum>1.2</GameVersionNum>
+  </PropertyGroup>
+  <PropertyGroup Condition="$(Configuration.Contains('V13'))">
+    <GameVersion>V13</GameVersion>
+    <GameVersionNum>1.3</GameVersionNum>
+  </PropertyGroup>
+  <PropertyGroup Condition="$(Configuration.Contains('V14'))">
+    <GameVersion>V14</GameVersion>
+    <GameVersionNum>1.4</GameVersionNum>
+  </PropertyGroup>
+  <PropertyGroup Condition="$(Configuration.Contains('V15'))">
+    <GameVersion>V15</GameVersion>
+    <GameVersionNum>1.5</GameVersionNum>
+  </PropertyGroup>
+  <PropertyGroup Condition="$(Configuration.Contains('V16'))">
+    <GameVersion>V16</GameVersion>
+    <GameVersionNum>1.6</GameVersionNum>
+  </PropertyGroup>
+
+
+  <PropertyGroup>
+    <OutputPath>../../$(GameVersionNum)/Assemblies</OutputPath>
+    <DefineConstants>$(DefineConstants);$(GameVersion)</DefineConstants>
+  </PropertyGroup>
+<ItemGroup>
+	<PackageReference Include="Krafs.Rimworld.Ref" Version="$(GameVersionNum).*" GeneratePathProperty="true" />
+	<!-- <PackageReference Include="Lib.Harmony" Version="2.*" ExcludeAssets="runtime" /> -->
+</ItemGroup>
+</Project>

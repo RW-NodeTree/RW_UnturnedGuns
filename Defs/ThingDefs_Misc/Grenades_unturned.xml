@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<ThingDef ParentName="BaseWeapon">
+		<defName>Weapon_Unturned_GrenadeB</defName>
+		<label>Unturned Frag Grenade</label>
+		<description>Frag Grenade</description>
+		<graphicData>
+			<texPath>Things/Item/Grenade_254</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>Interact_Grenade</soundInteract>
+		<techLevel>Industrial</techLevel>
+		<statBases>
+			<MarketValue>400</MarketValue>
+			<Mass>1</Mass>
+			<RangedWeapon_Cooldown>2.5</RangedWeapon_Cooldown>
+		</statBases>
+		<weaponTags>
+			<li>GrenadeDestructive</li>
+		</weaponTags>
+		<thingCategories>
+			<li>Grenades</li>
+		</thingCategories>
+		<verbs>
+			<li>
+				<label>throw Grenades</label>
+				<verbClass>Verb_LaunchProjectile</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<range>12.9</range>
+				<forcedMissRadius>1.5</forcedMissRadius>
+				<warmupTime>1.5</warmupTime>
+				<noiseRadius>4</noiseRadius>
+				<ai_IsBuildingDestroyer>true</ai_IsBuildingDestroyer>
+				<soundCast>Unturned_g_t</soundCast>
+				<targetParams>
+					<canTargetLocations>true</canTargetLocations>
+				</targetParams>
+				<defaultProjectile>Proj_GrenadeB_Unturned</defaultProjectile>
+			</li>
+		</verbs>
+		<smeltProducts>
+			<Steel>10</Steel>
+		</smeltProducts>
+	</ThingDef>
+
+	<ThingDef ParentName="BaseGrenadeProjectile">
+		<defName>Proj_GrenadeB_Unturned</defName>
+		<label>Unturned Frag Grenade</label>
+		<thingClass>Projectile_Explosive</thingClass>
+		<graphicData>
+			<texPath>Things/Item/Grenade_254</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<projectile>
+			<explosionRadius>2</explosionRadius>
+			<soundExplode>b_g</soundExplode>
+			<damageDef>Bomb</damageDef>
+			<damageAmountBase>45</damageAmountBase>
+			<explosionDelay>100</explosionDelay>
+		</projectile>
+	</ThingDef>
+
+	<ThingDef ParentName="BaseWeapon">
+		<defName>Weapon_Unturned_GrenadeSm</defName>
+		<label>Unturned Flash Grenade</label>
+		<description>Flash Grenade</description>
+		<graphicData>
+			<texPath>Things/Item/Flashbang_1346</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>Interact_Grenade</soundInteract>
+		<techLevel>Industrial</techLevel>
+		<statBases>
+			<MarketValue>600</MarketValue>
+			<Mass>1</Mass>
+			<RangedWeapon_Cooldown>2.5</RangedWeapon_Cooldown>
+		</statBases>
+		<weaponTags>
+			<li>GrenadeDestructive</li>
+		</weaponTags>
+		<thingCategories>
+			<li>Grenades</li>
+		</thingCategories>
+		<verbs>
+			<li>
+				<label>throw Flash Grenade</label>
+				<verbClass>Verb_LaunchProjectile</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<range>12.9</range>
+				<forcedMissRadius>1.5</forcedMissRadius>
+				<warmupTime>1.5</warmupTime>
+				<noiseRadius>4</noiseRadius>
+				<soundCast>Unturned_g_t</soundCast>
+				<targetParams>
+					<canTargetLocations>true</canTargetLocations>
+				</targetParams>
+				<defaultProjectile>Proj_GrenadeSm_Unturned</defaultProjectile>
+			</li>
+		</verbs>
+		<smeltProducts>
+			<Steel>10</Steel>
+		</smeltProducts>
+	</ThingDef>
+
+	<ThingDef ParentName="BaseGrenadeProjectile">
+		<defName>Proj_GrenadeSm_Unturned</defName>
+		<label>Unturned Flash Grenade</label>
+		<thingClass>Projectile_Explosive</thingClass>
+		<graphicData>
+			<texPath>Things/Item/Flashbang_1346</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<projectile>
+			<explosionRadius>4</explosionRadius>
+			<damageDef>Stun</damageDef>
+			<damageAmountBase>40</damageAmountBase>
+			<explosionDelay>100</explosionDelay>
+		</projectile>
+	</ThingDef>
+
+	<ThingDef ParentName="BaseWeapon">
+		<defName>Weapon_Unturned_GrenadeSw</defName>
+		<label>Unturned smoke Grenade</label>
+		<description>shoke Grenade</description>
+		<graphicData>
+			<texPath>Things/Item/Smoke_White_267</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>Interact_Grenade</soundInteract>
+		<techLevel>Industrial</techLevel>
+		<statBases>
+			<MarketValue>600</MarketValue>
+			<Mass>1</Mass>
+			<RangedWeapon_Cooldown>2.5</RangedWeapon_Cooldown>
+		</statBases>
+		<weaponTags>
+			<li>GrenadeDestructive</li>
+		</weaponTags>
+		<thingCategories>
+			<li>Grenades</li>
+		</thingCategories>
+		<verbs>
+			<li>
+				<label>throw smoke Grenade</label>
+				<verbClass>Verb_LaunchProjectile</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<range>12.9</range>
+				<forcedMissRadius>1.5</forcedMissRadius>
+				<warmupTime>1.5</warmupTime>
+				<noiseRadius>4</noiseRadius>
+				<soundCast>Unturned_g_t</soundCast>
+				<targetParams>
+					<canTargetLocations>true</canTargetLocations>
+				</targetParams>
+				<defaultProjectile>Proj_GrenadeSw_Unturned</defaultProjectile>
+			</li>
+		</verbs>
+		<smeltProducts>
+			<Steel>10</Steel>
+		</smeltProducts>
+	</ThingDef>
+
+	<ThingDef ParentName="BaseGrenadeProjectile">
+		<defName>Proj_GrenadeSw_Unturned</defName>
+		<label>Unturned smoke Grenade</label>
+		<thingClass>Projectile_Explosive</thingClass>
+		<graphicData>
+			<texPath>Things/Item/Smoke_White_267</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<projectile>
+			<preExplosionSpawnThingDef>Gas_Smoke</preExplosionSpawnThingDef>
+			<explosionRadius>4</explosionRadius>
+			<damageDef>Smoke</damageDef>
+			<explosionDelay>100</explosionDelay>
+		</projectile>
+	</ThingDef>
+
+
+	<ThingDef ParentName="BaseWeapon">
+		<defName>Weapon_Unturned_GrenadeIw</defName>
+		<label>Unturned stickiness Grenade</label>
+		<description>stickiness Grenade</description>
+		<graphicData>
+			<texPath>Things/Item/Impact_Grenade_1520</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>Interact_Grenade</soundInteract>
+		<techLevel>Industrial</techLevel>
+		<statBases>
+			<MarketValue>500</MarketValue>
+			<Mass>1</Mass>
+			<RangedWeapon_Cooldown>2.5</RangedWeapon_Cooldown>
+		</statBases>
+		<weaponTags>
+			<li>GrenadeDestructive</li>
+		</weaponTags>
+		<thingCategories>
+			<li>Grenades</li>
+		</thingCategories>
+		<verbs>
+			<li>
+				<label>throw smoke Grenade</label>
+				<verbClass>Verb_LaunchProjectile</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<range>12.9</range>
+				<forcedMissRadius>1.5</forcedMissRadius>
+				<warmupTime>1.5</warmupTime>
+				<noiseRadius>4</noiseRadius>
+				<soundCast>Unturned_Impact_Grenade</soundCast>
+				<targetParams>
+					<canTargetLocations>true</canTargetLocations>
+				</targetParams>
+				<defaultProjectile>Proj_GrenadeIw_Unturned</defaultProjectile>
+			</li>
+		</verbs>
+		<smeltProducts>
+			<Steel>10</Steel>
+		</smeltProducts>
+	</ThingDef>
+
+	<ThingDef ParentName="BaseGrenadeProjectile">
+		<defName>Proj_GrenadeIw_Unturned</defName>
+		<label>Unturned stickiness Grenade</label>
+		<thingClass>RW_UnturnedWeapon.Projectile_ExplosiveStickiness</thingClass>
+		<graphicData>
+			<texPath>Things/Item/Impact_Grenade_1520</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<projectile>
+			<explosionRadius>2</explosionRadius>
+			<soundExplode>b_g</soundExplode>
+			<damageDef>Bomb</damageDef>
+			<damageAmountBase>45</damageAmountBase>
+			<explosionDelay>100</explosionDelay>
+		</projectile>
+	</ThingDef>
+
+
+	<ThingDef ParentName="BaseWeapon">
+		<defName>Weapon_Unturned_GrenadeIm</defName>
+		<label>Unturned Impact Grenade</label>
+		<description>Impact Grenade</description>
+		<graphicData>
+			<texPath>Things/Item/Impact_Grenade_1520</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>Interact_Grenade</soundInteract>
+		<techLevel>Industrial</techLevel>
+		<statBases>
+			<MarketValue>500</MarketValue>
+			<Mass>1</Mass>
+			<RangedWeapon_Cooldown>2.5</RangedWeapon_Cooldown>
+		</statBases>
+		<weaponTags>
+			<li>GrenadeDestructive</li>
+		</weaponTags>
+		<thingCategories>
+			<li>Grenades</li>
+		</thingCategories>
+		<verbs>
+			<li>
+				<label>throw smoke Grenade</label>
+				<verbClass>Verb_LaunchProjectile</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<range>12.9</range>
+				<forcedMissRadius>1.5</forcedMissRadius>
+				<warmupTime>1.5</warmupTime>
+				<noiseRadius>4</noiseRadius>
+				<soundCast>Unturned_Impact_Grenade</soundCast>
+				<targetParams>
+					<canTargetLocations>true</canTargetLocations>
+				</targetParams>
+				<defaultProjectile>Proj_GrenadeIm_Unturned</defaultProjectile>
+			</li>
+		</verbs>
+		<smeltProducts>
+			<Steel>10</Steel>
+		</smeltProducts>
+	</ThingDef>
+
+	<ThingDef ParentName="BaseGrenadeProjectile">
+		<defName>Proj_GrenadeIm_Unturned</defName>
+		<label>Unturned Impact Grenade</label>
+		<thingClass>Projectile_Explosive</thingClass>
+		<graphicData>
+			<texPath>Things/Item/Impact_Grenade_1520</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<projectile>
+			<explosionRadius>2</explosionRadius>
+			<soundExplode>b_g</soundExplode>
+			<damageDef>Bomb</damageDef>
+			<damageAmountBase>45</damageAmountBase>
+			<explosionDelay>0</explosionDelay>
+		</projectile>
+	</ThingDef>
+
+</Defs>

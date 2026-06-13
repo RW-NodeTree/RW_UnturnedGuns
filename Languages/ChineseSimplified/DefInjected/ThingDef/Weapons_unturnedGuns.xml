@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <Bullet_Unturned_HPB.label>大口径手枪弹</Bullet_Unturned_HPB.label>
+
+  <Gun_Unturned_Ace.label>“王牌”左轮手枪</Gun_Unturned_Ace.label>
+  <Gun_Unturned_Ace.description>Ace左轮手枪</Gun_Unturned_Ace.description>
+
+
+   <Bullet_Unturned_LRB.label>5.56mm口径子弹</Bullet_Unturned_LRB.label>
+
+  <Gun_Unturned_Augewehr.label>“奥格韦尔”突击步枪——AUG</Gun_Unturned_Augewehr.label>
+  <Gun_Unturned_Augewehr.description>Augewehr突击步枪</Gun_Unturned_Augewehr.description>
+  
+  
+   <Bullet_Unturned_Rocket.label>火箭弹</Bullet_Unturned_Rocket.label>
+
+  <Gun_Unturned_Launcher_Rocket.label>火箭发射器</Gun_Unturned_Launcher_Rocket.label>
+  <Gun_Unturned_Launcher_Rocket.description>Rocket Launcher火箭筒</Gun_Unturned_Launcher_Rocket.description>
+  
+    <Bullet_Unturned_MPB.label>中口径手枪弹</Bullet_Unturned_MPB.label>
+
+  <Gun_Unturned_Avenger.label>“复仇者”手枪</Gun_Unturned_Avenger.label>
+  <Gun_Unturned_Avenger.description>Avenger手枪</Gun_Unturned_Avenger.description>
+  
+    <Bullet_Shotgun.label>霰弹枪子弹</Bullet_Shotgun.label>
+
+  <Gun_Unturned_Bane.label>“恶魔克星”霰弹枪</Gun_Unturned_Bane.label>
+  <Gun_Unturned_Bane.description>Devil's Bane霰弹枪</Gun_Unturned_Bane.description>
+
+  <Gun_Unturned_Bluntforce.label>“伯奈利超新星”霰弹枪</Gun_Unturned_Bluntforce.label>
+  <Gun_Unturned_Bluntforce.description>Bluntforce霰弹枪</Gun_Unturned_Bluntforce.description>
+  
+  <Bow_Compound.label>复合弓</Bow_Compound.label>
+  <Bow_Compound.description>复合弓</Bow_Compound.description>
+  
+  <Bullet_Unturned_SMGB.label>9mm子弹</Bullet_Unturned_SMGB.label>
+
+  <Gun_Unturned_Bulldog.label>"牛头狗"冲锋枪</Gun_Unturned_Bulldog.label>
+  <Gun_Unturned_Bulldog.description>Bulldog冲锋枪</Gun_Unturned_Bulldog.description>
+  
+  
+  <Gun_Unturned_Card.label>波波沙冲锋枪</Gun_Unturned_Card.label>
+  <Gun_Unturned_Card.description>Name Card冲锋枪</Gun_Unturned_Card.description>
+  
+  <Gun_Unturned_Cobra.label>“眼镜蛇”自动手枪</Gun_Unturned_Cobra.label>
+  <Gun_Unturned_Cobra.description>Cobra自动手枪</Gun_Unturned_Cobra.description>
+  
+   <Bullet_Unturned_LPB.label>小口径手枪弹</Bullet_Unturned_LPB.label>
+
+  <Gun_Unturned_Colt.label>“柯尔特”手枪</Gun_Unturned_Colt.label>
+  <Gun_Unturned_Colt.description>Colt手枪</Gun_Unturned_Colt.description>
+  
+  <Bullet_Unturned_Arrow.label>箭</Bullet_Unturned_Arrow.label>
+  
+  <Bow_Crossbow.label>弩</Bow_Crossbow.label>
+  <Bow_Crossbow.description>Crossbow弩</Bow_Crossbow.description>
+
+  <Gun_Unturned_Desert_Falcon.label>“沙漠之鹰”手枪</Gun_Unturned_Desert_Falcon.label>
+  <Gun_Unturned_Desert_Falcon.description>Desert Falcon手枪</Gun_Unturned_Desert_Falcon.description>
+
+  <Gun_Unturned_Determinator.label>”决定着“霰弹枪</Gun_Unturned_Determinator.label>
+  <Gun_Unturned_Determinator.description>Determinator霰弹枪</Gun_Unturned_Determinator.description>
+  
+   <Bullet_Unturned_UMGB.label>机枪子弹</Bullet_Unturned_UMGB.label>
+
+  <Gun_Unturned_Dragonfang.label>”龙牙“轻机枪</Gun_Unturned_Dragonfang.label>
+  <Gun_Unturned_Dragonfang.description>Dragonfang轻机枪</Gun_Unturned_Dragonfang.description>
+
+  <Gun_Unturned_Eaglefire.label>”鹰火“突击步枪</Gun_Unturned_Eaglefire.label>
+  <Gun_Unturned_Eaglefire.description>Eaglefire突击步枪</Gun_Unturned_Eaglefire.description>
+  
+   <Bullet_Unturned_HRB.label>狙击步枪子弹</Bullet_Unturned_HRB.label>
+
+  <Gun_Unturned_Ekho.label>”回声“狙击步枪</Gun_Unturned_Ekho.label>
+  <Gun_Unturned_Ekho.description>Ekho狙击步枪</Gun_Unturned_Ekho.description>
+
+  <Gun_Unturned_Empire.label>“帝国”冲锋枪-UMP</Gun_Unturned_Empire.label>
+  <Gun_Unturned_Empire.description>Empire冲锋枪</Gun_Unturned_Empire.description>
+  
+  <Gun_Unturned_Fury.label>“地狱之怒”转管机枪</Gun_Unturned_Fury.label>
+  <Gun_Unturned_Fury.description>Hell's Fury转管机枪</Gun_Unturned_Fury.description>
+
+  <Gun_Unturned_Fusilaut.label>”富西劳特“突击步枪-FAMAS G1</Gun_Unturned_Fusilaut.label>
+  <Gun_Unturned_Fusilaut.description>Fusilaut突击步枪</Gun_Unturned_Fusilaut.description>
+  
+  <Gun_Unturned_Grizzly.label>"灰熊”狙击步枪Grizzly</Gun_Unturned_Grizzly.label>
+  <Gun_Unturned_Grizzly.description>Grizzly狙击步枪</Gun_Unturned_Grizzly.description>
+
+   <Bullet_Unturned_MRB.label>军用步枪子弹</Bullet_Unturned_MRB.label>
+   
+  <Gun_Unturned_Hawkhound.label>“猎犬鹰”步枪</Gun_Unturned_Hawkhound.label>
+  <Gun_Unturned_Hawkhound.description>Hawkhound步枪</Gun_Unturned_Hawkhound.description>
+
+  <Gun_Unturned_Heartbreaker.label>"万人迷"突击步枪-S-car</Gun_Unturned_Heartbreaker.label>
+  <Gun_Unturned_Heartbreaker.description>Heartbreaker突击步枪</Gun_Unturned_Heartbreaker.description>
+  
+  <Gun_Unturned_Honeybadger.label>”蜜罐“冲锋步枪</Gun_Unturned_Honeybadger.label>
+  <Gun_Unturned_Honeybadger.description>Honeybadger冲锋步枪</Gun_Unturned_Honeybadger.description>
+  
+  <Gun_Unturned_Kryzkarek.label>“Kryzkarek”手枪</Gun_Unturned_Kryzkarek.label>
+  <Gun_Unturned_Kryzkarek.description>Kryzkarek手枪</Gun_Unturned_Kryzkarek.description>
+
+  <Gun_Unturned_Luger.label>“鲁格尔”手枪</Gun_Unturned_Luger.label>
+  <Gun_Unturned_Luger.description>Luger手枪</Gun_Unturned_Luger.description>
+
+  <Gun_Unturned_Maplestrike.label>“枫之突”突击步枪-M4</Gun_Unturned_Maplestrike.label>
+  <Gun_Unturned_Maplestrike.description>Maplestrike突击步枪</Gun_Unturned_Maplestrike.description>
+  
+  <Gun_Unturned_Masterkey.label>长双筒霰弹枪</Gun_Unturned_Masterkey.label>
+  <Gun_Unturned_Masterkey.description>Masterkey霰弹枪</Gun_Unturned_Masterkey.description>
+  
+   <Bullet_Unturned_RSRB.label>7.62mm子弹</Bullet_Unturned_RSRB.label>
+
+  <Gun_Unturned_Matamorez.label>“消音狙”突击步枪</Gun_Unturned_Matamorez.label>
+  <Gun_Unturned_Matamorez.description>Matamorez突击步枪</Gun_Unturned_Matamorez.description>
+  
+  <Gun_Unturned_MP__.label>“MP40”冲锋枪</Gun_Unturned_MP__.label>
+  <Gun_Unturned_MP__.description>MP40冲锋枪</Gun_Unturned_MP__.description>
+  
+  <Gun_Unturned_Nailgun.label>射钉枪</Gun_Unturned_Nailgun.label>
+  <Gun_Unturned_Nailgun.description>射钉枪</Gun_Unturned_Nailgun.description>
+  
+  <Gun_Unturned_Nightraider.label>“夜袭着”突击步枪</Gun_Unturned_Nightraider.label>
+  <Gun_Unturned_Nightraider.description>Nightraider突击步枪</Gun_Unturned_Nightraider.description>
+  
+  <Gun_Unturned_Nykorev.label>“Nykorev”轻机枪</Gun_Unturned_Nykorev.label>
+  <Gun_Unturned_Nykorev.description>Nykorev轻机枪</Gun_Unturned_Nykorev.description>
+
+  <Gun_Unturned_Peacemaker.label>“和平使者”冲锋枪</Gun_Unturned_Peacemaker.label>
+  <Gun_Unturned_Peacemaker.description>Peacemaker冲锋枪</Gun_Unturned_Peacemaker.description>
+  
+  <Gun_Unturned_Quadbarrel.label>短八管霰弹枪</Gun_Unturned_Quadbarrel.label>
+  <Gun_Unturned_Quadbarrel.description>Quadbarrel霰弹枪</Gun_Unturned_Quadbarrel.description>
+  
+  <Gun_Unturned_Sabertooth.label>“剑齿虎”狙击步枪</Gun_Unturned_Sabertooth.label>
+  <Gun_Unturned_Sabertooth.description>Sabertooth狙击步枪</Gun_Unturned_Sabertooth.description>
+
+  <Gun_Unturned_Sawed_Off.label>短双管霰弹枪</Gun_Unturned_Sawed_Off.label>
+  <Gun_Unturned_Sawed_Off.description>Sawed Off霰弹枪</Gun_Unturned_Sawed_Off.description>
+  
+  <Gun_Unturned_Scalar.label>“短剑”冲锋枪</Gun_Unturned_Scalar.label>
+  <Gun_Unturned_Scalar.description>Scalar冲锋枪</Gun_Unturned_Scalar.description>
+  
+  <Gun_Unturned_Schofield.label>“斯科菲尔德”步枪</Gun_Unturned_Schofield.label>
+  <Gun_Unturned_Schofield.description>Schofield步枪</Gun_Unturned_Schofield.description>
+
+   <Bullet_Unturned_Rail.label>炮弹</Bullet_Unturned_Rail.label>
+
+  <Gun_Unturned_Shadowstalker.label>“潜影着”轨道炮</Gun_Unturned_Shadowstalker.label>
+  <Gun_Unturned_Shadowstalker.description>Shadowstalker轨道炮</Gun_Unturned_Shadowstalker.description>
+  
+  <Gun_Unturned_ShadowstalkerMkII.label>“潜影着MK.II”轨道炮</Gun_Unturned_ShadowstalkerMkII.label>
+  <Gun_Unturned_ShadowstalkerMkII.description>Shadowstalker Mk.II轨道炮</Gun_Unturned_ShadowstalkerMkII.description>
+  
+   <Bullet_Unturned_RMRB.label>俄制步枪子弹</Bullet_Unturned_RMRB.label>
+   
+  <Gun_Unturned_Snayperskya.label>“Snayperskya”狙击步枪-SVD</Gun_Unturned_Snayperskya.label>
+  <Gun_Unturned_Snayperskya.description>Snayperskya狙击步枪</Gun_Unturned_Snayperskya.description>
+
+  <Gun_Unturned_Sportshot.label>运动步枪</Gun_Unturned_Sportshot.label>
+  <Gun_Unturned_Sportshot.description>Sportshot运动步枪</Gun_Unturned_Sportshot.description>
+
+  <Gun_Unturned_Swissgewehr.label>“瑞士”突击步枪</Gun_Unturned_Swissgewehr.label>
+  <Gun_Unturned_Swissgewehr.description>Swissgewehr突击步枪</Gun_Unturned_Swissgewehr.description>
+  
+  <Gun_Unturned_Teklowvka.label>“Teklowvka”手枪</Gun_Unturned_Teklowvka.label>
+  <Gun_Unturned_Teklowvka.description>Teklowvka手枪</Gun_Unturned_Teklowvka.description>
+
+  <Gun_Unturned_Timberwolf.label>“森林狼”狙击步枪</Gun_Unturned_Timberwolf.label>
+  <Gun_Unturned_Timberwolf.description>Timberwolf狙击步枪</Gun_Unturned_Timberwolf.description>
+
+  <Gun_Unturned_Viper.label>“蟒蛇”冲锋枪</Gun_Unturned_Viper.label>
+  <Gun_Unturned_Viper.description>Viper冲锋枪</Gun_Unturned_Viper.description>
+  
+  <Gun_Unturned_Vonya.label>“Vonya”霰弹枪</Gun_Unturned_Vonya.label>
+  <Gun_Unturned_Vonya.description>Vonya霰弹枪</Gun_Unturned_Vonya.description>
+  
+  <Gun_Unturned_Yuri.label>“尤里”冲锋枪</Gun_Unturned_Yuri.label>
+  <Gun_Unturned_Yuri.description>Yuri冲锋枪</Gun_Unturned_Yuri.description>
+  
+   <Bullet_Unturned_RLRB.label>7.62mm子弹</Bullet_Unturned_RLRB.label>
+
+  <Gun_Unturned_Zubeknakov.label>“Zubeknakov”突击步枪(AKM)</Gun_Unturned_Zubeknakov.label>
+  <Gun_Unturned_Zubeknakov.description>Zubeknakov突击步枪</Gun_Unturned_Zubeknakov.description>
+  
+  <Gun_Unturned_Backlash.label>“Backlash”霰弹枪</Gun_Unturned_Backlash.label>
+  <Gun_Unturned_Backlash.description>Backlash霰弹枪</Gun_Unturned_Backlash.description>
+  
+  <Gun_Unturned_Chimera.label>“喀迈拉”突击步枪</Gun_Unturned_Chimera.label>
+  <Gun_Unturned_Chimera.description>喀迈拉突击步枪</Gun_Unturned_Chimera.description>
+
+  <Gun_Unturned_Cobalt.label>“Cobalt”步枪(M1)</Gun_Unturned_Cobalt.label>
+  <Gun_Unturned_Cobalt.description>Cobalt突击步枪</Gun_Unturned_Cobalt.description>
+  
+  <Gun_Unturned_Dagger.label>“匕首”狙击步枪</Gun_Unturned_Dagger.label>
+  <Gun_Unturned_Dagger.description>匕首狙击步枪</Gun_Unturned_Dagger.description>
+
+  <Bullet_Unturned_ATB.label>炮弹</Bullet_Unturned_ATB.label>
+   
+  <Gun_Unturned_Hollowcharge.label>“Hollowcharge”反坦克炮</Gun_Unturned_Hollowcharge.label>
+  <Gun_Unturned_Hollowcharge.description>Hollowcharge反坦克炮</Gun_Unturned_Hollowcharge.description>
+  
+  <Gun_Unturned_Hospitality.label>“Hospitality”短管突击步枪(AKS-74U)</Gun_Unturned_Hospitality.label>
+  <Gun_Unturned_Hospitality.description>Hospitality短管突击步枪</Gun_Unturned_Hospitality.description>
+  
+  <Bullet_Unturned_SmallRocket.label>火箭弹</Bullet_Unturned_SmallRocket.label>
+   
+  <Gun_Unturned_Judgement.label>“审判”火箭发射器</Gun_Unturned_Judgement.label>
+  <Gun_Unturned_Judgement.description>审判火箭发射器</Gun_Unturned_Judgement.description>
+  
+  <Gun_Unturned_Kopis.label>“Kopis”手枪</Gun_Unturned_Kopis.label>
+  <Gun_Unturned_Kopis.description>Kopis手枪</Gun_Unturned_Kopis.description>
+   
+  <Bullet_Unturned_FastRocket.label>火箭弹</Bullet_Unturned_FastRocket.label>
+   
+  <Gun_Unturned_Lancer.label>“Lancer”反坦克火箭筒</Gun_Unturned_Lancer.label>
+  <Gun_Unturned_Lancer.description>Lancer反坦克火箭筒</Gun_Unturned_Lancer.description>
+  
+  <Gun_Unturned_Lockdown.label>“Lockdown”射手步枪</Gun_Unturned_Lockdown.label>
+  <Gun_Unturned_Lockdown.description>Lockdown射手步枪</Gun_Unturned_Lockdown.description>
+   
+  <Gun_Unturned_Orel.label>“奥寥尔”手枪</Gun_Unturned_Orel.label>
+  <Gun_Unturned_Orel.description>奥寥尔手枪</Gun_Unturned_Orel.description>
+   
+  <Gun_Unturned_Wezel.label>“韦策尔”突击步枪</Gun_Unturned_Wezel.label>
+  <Gun_Unturned_Wezel.description>韦策尔突击步枪</Gun_Unturned_Wezel.description>
+   
+</LanguageData>
