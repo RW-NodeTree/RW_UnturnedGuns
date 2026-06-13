@@ -9,7 +9,7 @@ namespace RW_UnturnedWeapon;
 
 public class Projectile_ExplosiveStickiness : Projectile_Explosive
 {
-    private Vector3 relativePos;
+    private Vector2 relativePos;
     private LocalTargetInfo stickingTarget;
 
     public override Vector3 DrawPos
@@ -18,7 +18,7 @@ public class Projectile_ExplosiveStickiness : Projectile_Explosive
         {
             if (stickingTarget.IsValid && stickingTarget.HasThing && stickingTarget != this)
             {
-                return stickingTarget.Thing.DrawPos + relativePos;
+                return stickingTarget.Thing.DrawPos + new Vector3(relativePos.x, 1, relativePos.y);
             }
             return base.DrawPos;
         }
@@ -69,7 +69,8 @@ public class Projectile_ExplosiveStickiness : Projectile_Explosive
         {
             size = pawn.BodySize;
         }
-        relativePos = base.DrawPos - hitThing.DrawPos;
+        Vector3 vector = base.DrawPos - hitThing.DrawPos;
+        relativePos = new Vector2(vector.x, vector.z);
         if (Vector3.SqrMagnitude(relativePos) <= size * size)
         {
             stickingTarget = hitThing;
