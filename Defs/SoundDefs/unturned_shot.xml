@@ -10,9 +10,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Ace</clipPath>
+                        <clipPath>Item/Ace</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -26,9 +27,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Augewehr</clipPath>
+                        <clipPath>Item/Augewehr</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -42,9 +44,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Backlash</clipPath>
+                        <clipPath>Item/Backlash</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -58,9 +61,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/bane</clipPath>
+                        <clipPath>Item/bane</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -74,9 +78,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Bluntforce</clipPath>
+                        <clipPath>Item/Bluntforce</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -93,9 +98,10 @@
                 <tempoAffectedByGameSpeed>true</tempoAffectedByGameSpeed>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Launcher_Rocket_f</clipPath>
+                        <clipPath>Item/Launcher_Rocket_f</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -109,9 +115,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/avenger</clipPath>
+                        <clipPath>Item/avenger</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -125,9 +132,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Bulldog</clipPath>
+                        <clipPath>Item/Bulldog</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -141,9 +149,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Card</clipPath>
+                        <clipPath>Item/Card</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -157,9 +166,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Chimera</clipPath>
+                        <clipPath>Item/Chimera</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -173,9 +183,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Cobalt</clipPath>
+                        <clipPath>Item/Cobalt</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -189,9 +200,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Cobra</clipPath>
+                        <clipPath>Item/Cobra</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -205,9 +217,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Colt</clipPath>
+                        <clipPath>Item/Colt</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -221,9 +234,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Dagger</clipPath>
+                        <clipPath>Item/Dagger</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -237,9 +251,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Desert_Falcon</clipPath>
+                        <clipPath>Item/Desert_Falcon</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -253,9 +268,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Determinator</clipPath>
+                        <clipPath>Item/Determinator</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -269,9 +285,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/dragonfang</clipPath>
+                        <clipPath>Item/dragonfang</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -285,9 +302,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Eaglefire</clipPath>
+                        <clipPath>Item/Eaglefire</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -301,9 +319,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Ekho</clipPath>
+                        <clipPath>Item/Ekho</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -317,9 +336,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Empire</clipPath>
+                        <clipPath>Item/Empire</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -333,9 +353,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Fury_f</clipPath>
+                        <clipPath>Item/Fury_f</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -352,9 +373,10 @@
                 <tempoAffectedByGameSpeed>true</tempoAffectedByGameSpeed>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Fury_r</clipPath>
+                        <clipPath>Item/Fury_r</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -368,9 +390,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Fuilaut</clipPath>
+                        <clipPath>Item/Fuilaut</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -384,9 +407,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Grizzly</clipPath>
+                        <clipPath>Item/Grizzly</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -400,9 +424,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Hawkhound</clipPath>
+                        <clipPath>Item/Hawkhound</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -416,9 +441,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Heartbreaker</clipPath>
+                        <clipPath>Item/Heartbreaker</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -432,9 +458,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Hollowcharge</clipPath>
+                        <clipPath>Item/Hollowcharge</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -448,9 +475,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Honeybadger</clipPath>
+                        <clipPath>Item/Honeybadger</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -464,9 +492,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Hospitality</clipPath>
+                        <clipPath>Item/Hospitality</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -483,9 +512,10 @@
                 <tempoAffectedByGameSpeed>true</tempoAffectedByGameSpeed>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Judgement</clipPath>
+                        <clipPath>Item/Judgement</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -499,9 +529,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Kopis</clipPath>
+                        <clipPath>Item/Kopis</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -515,9 +546,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Kryzkarek</clipPath>
+                        <clipPath>Item/Kryzkarek</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -531,9 +563,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Lockdown</clipPath>
+                        <clipPath>Item/Lockdown</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -547,9 +580,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Luger</clipPath>
+                        <clipPath>Item/Luger</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -563,9 +597,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Maplestrike</clipPath>
+                        <clipPath>Item/Maplestrike</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -579,9 +614,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Masterkey</clipPath>
+                        <clipPath>Item/Masterkey</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -595,9 +631,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Matamorez</clipPath>
+                        <clipPath>Item/Matamorez</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -611,9 +648,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/MP40</clipPath>
+                        <clipPath>Item/MP40</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -627,9 +665,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Nailgun</clipPath>
+                        <clipPath>Item/Nailgun</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -643,9 +682,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Nightraider</clipPath>
+                        <clipPath>Item/Nightraider</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -659,9 +699,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Nykorev</clipPath>
+                        <clipPath>Item/Nykorev</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -675,9 +716,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Orel</clipPath>
+                        <clipPath>Item/Orel</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -691,9 +733,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Peacemaker</clipPath>
+                        <clipPath>Item/Peacemaker</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -708,9 +751,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Quadbarrel</clipPath>
+                        <clipPath>Item/Quadbarrel</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -724,9 +768,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Sabertooth</clipPath>
+                        <clipPath>Item/Sabertooth</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -740,9 +785,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Sawed_off</clipPath>
+                        <clipPath>Item/Sawed_off</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -756,9 +802,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Scalar</clipPath>
+                        <clipPath>Item/Scalar</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -772,9 +819,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Schofield</clipPath>
+                        <clipPath>Item/Schofield</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -788,9 +836,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/shadowstalker</clipPath>
+                        <clipPath>Item/shadowstalker</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -804,9 +853,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/shadowstalkerMK2</clipPath>
+                        <clipPath>Item/shadowstalkerMK2</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -820,9 +870,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Snayperskya</clipPath>
+                        <clipPath>Item/Snayperskya</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -836,9 +887,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Sportshot</clipPath>
+                        <clipPath>Item/Sportshot</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -852,9 +904,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Swissgewehr</clipPath>
+                        <clipPath>Item/Swissgewehr</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -868,9 +921,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Tekowvka</clipPath>
+                        <clipPath>Item/Tekowvka</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -884,9 +938,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Timberwolf</clipPath>
+                        <clipPath>Item/Timberwolf</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -900,9 +955,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/viper</clipPath>
+                        <clipPath>Item/viper</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -916,9 +972,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Vonya</clipPath>
+                        <clipPath>Item/Vonya</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -932,9 +989,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Wezel</clipPath>
+                        <clipPath>Item/Wezel</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -948,9 +1006,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Yuri</clipPath>
+                        <clipPath>Item/Yuri</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -964,9 +1023,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Zubknakov</clipPath>
+                        <clipPath>Item/Zubknakov</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -980,9 +1040,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/b_g</clipPath>
+                        <clipPath>Item/b_g</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -996,9 +1057,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/b_rl</clipPath>
+                        <clipPath>Item/b_rl</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -1012,9 +1074,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/g_t</clipPath>
+                        <clipPath>Item/g_t</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>
@@ -1028,9 +1091,10 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Clip">
-                        <clipPath>Unturned_shot/Impact_Grenade</clipPath>
+                        <clipPath>Item/Impact_Grenade</clipPath>
                     </li>
                 </grains>
+                <volumeRange>100~100</volumeRange>
             </li>
         </subSounds>
     </SoundDef>

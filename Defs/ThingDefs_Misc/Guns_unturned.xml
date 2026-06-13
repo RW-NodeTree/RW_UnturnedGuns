@@ -92,8 +92,8 @@
             <damageDef>Bomb</damageDef>
             <damageAmountBase>40</damageAmountBase>
             <explosionRadius>3</explosionRadius>
-            <soundExplode>b_rl</soundExplode>
-            <soundAmbient>fly_Rocket</soundAmbient>
+            <soundExplode>Unturned_b_rl</soundExplode>
+            <soundAmbient>Unturned_fly_Rocket</soundAmbient>
             <ai_IsIncendiary>true</ai_IsIncendiary>
         </projectile>
         <!-- ==================== Don't maind it ========================== -->
@@ -266,8 +266,8 @@
             <damageDef>Bomb</damageDef>
             <damageAmountBase>40</damageAmountBase>
             <explosionRadius>3</explosionRadius>
-            <soundExplode>b_rl</soundExplode>
-            <soundAmbient>fly_Judgement</soundAmbient>
+            <soundExplode>Unturned_b_rl</soundExplode>
+            <soundAmbient>Unturned_fly_Judgement</soundAmbient>
             <ai_IsIncendiary>true</ai_IsIncendiary>
         </projectile>
         <!-- ==================== Don't maind it ========================== -->
@@ -300,8 +300,8 @@
             <damageDef>Bomb</damageDef>
             <damageAmountBase>40</damageAmountBase>
             <explosionRadius>3</explosionRadius>
-            <soundExplode>b_rl</soundExplode>
-            <soundAmbient>fly_Rocket</soundAmbient>
+            <soundExplode>Unturned_b_rl</soundExplode>
+            <soundAmbient>Unturned_fly_Rocket</soundAmbient>
             <ai_IsIncendiary>true</ai_IsIncendiary>
         </projectile>
         <!-- ==================== Don't maind it ========================== -->

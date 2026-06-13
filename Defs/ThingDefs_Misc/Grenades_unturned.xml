@@ -54,7 +54,7 @@
 		</graphicData>
 		<projectile>
 			<explosionRadius>2</explosionRadius>
-			<soundExplode>b_g</soundExplode>
+			<soundExplode>Unturned_b_g</soundExplode>
 			<damageDef>Bomb</damageDef>
 			<damageAmountBase>45</damageAmountBase>
 			<explosionDelay>100</explosionDelay>
@@ -230,7 +230,7 @@
 		</graphicData>
 		<projectile>
 			<explosionRadius>2</explosionRadius>
-			<soundExplode>b_g</soundExplode>
+			<soundExplode>Unturned_b_g</soundExplode>
 			<damageDef>Bomb</damageDef>
 			<damageAmountBase>45</damageAmountBase>
 			<explosionDelay>100</explosionDelay>
@@ -290,7 +290,7 @@
 		</graphicData>
 		<projectile>
 			<explosionRadius>2</explosionRadius>
-			<soundExplode>b_g</soundExplode>
+			<soundExplode>Unturned_b_g</soundExplode>
 			<damageDef>Bomb</damageDef>
 			<damageAmountBase>45</damageAmountBase>
 			<explosionDelay>0</explosionDelay>
