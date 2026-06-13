@@ -618,7 +618,7 @@
         </statBases>
         <verbs>
             <li>
-                <verbClass>MultiShoot</verbClass>
+                <verbClass>Verb_Shoot</verbClass>
                 <hasStandardCommand>true</hasStandardCommand>
                 <defaultProjectile>Bullet_Unturned_Shotgun</defaultProjectile>
                 <warmupTime>0.9</warmupTime>
@@ -673,7 +673,7 @@
         </statBases>
         <verbs>
             <li>
-                <verbClass>MultiShoot</verbClass>
+                <verbClass>Verb_Shoot</verbClass>
                 <hasStandardCommand>true</hasStandardCommand>
                 <defaultProjectile>Bullet_Unturned_Shotgun</defaultProjectile>
                 <warmupTime>1.2</warmupTime>
@@ -732,7 +732,7 @@
         </statBases>
         <verbs>
             <li>
-                <verbClass>MultiShoot</verbClass>
+                <verbClass>Verb_Shoot</verbClass>
                 <hasStandardCommand>true</hasStandardCommand>
                 <defaultProjectile>Bullet_Unturned_Shotgun</defaultProjectile>
                 <warmupTime>1</warmupTime>
@@ -1292,7 +1292,7 @@
         </statBases>
         <verbs>
             <li>
-                <verbClass>MultiShoot</verbClass>
+                <verbClass>Verb_Shoot</verbClass>
                 <hasStandardCommand>true</hasStandardCommand>
                 <defaultProjectile>Bullet_Unturned_Shotgun</defaultProjectile>
                 <warmupTime>1</warmupTime>
@@ -2386,7 +2386,7 @@
         </statBases>
         <verbs>
             <li>
-                <verbClass>MultiShoot</verbClass>
+                <verbClass>Verb_Shoot</verbClass>
                 <hasStandardCommand>true</hasStandardCommand>
                 <defaultProjectile>Bullet_Unturned_Shotgun</defaultProjectile>
                 <warmupTime>1.5</warmupTime>
@@ -2843,7 +2843,7 @@
         </weaponTags>
         <verbs>
             <li>
-                <verbClass>MultiShoot</verbClass>
+                <verbClass>Verb_Shoot</verbClass>
                 <hasStandardCommand>true</hasStandardCommand>
                 <defaultProjectile>Bullet_Unturned_Shotgun</defaultProjectile>
                 <warmupTime>2.5</warmupTime>
@@ -2958,7 +2958,7 @@
         </statBases>
         <verbs>
             <li>
-                <verbClass>MultiShoot</verbClass>
+                <verbClass>Verb_Shoot</verbClass>
                 <hasStandardCommand>true</hasStandardCommand>
                 <defaultProjectile>Bullet_Unturned_Shotgun</defaultProjectile>
                 <warmupTime>1.2</warmupTime>
@@ -3555,7 +3555,7 @@
         </statBases>
         <verbs>
             <li>
-                <verbClass>MultiShoot</verbClass>
+                <verbClass>Verb_Shoot</verbClass>
                 <hasStandardCommand>true</hasStandardCommand>
                 <defaultProjectile>Bullet_Unturned_Shotgun</defaultProjectile>
                 <warmupTime>0.8</warmupTime>
