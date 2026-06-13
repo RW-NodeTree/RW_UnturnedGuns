@@ -40,7 +40,7 @@ public class ThingComp_ShootgunBullet : ThingComp
         //            Projectile_equipment(parentAsProjectile),
         //            Projectile_targetCoverDef(parentAsProjectile)
         //        );
-        DynamicMethod dynamicMethod = new DynamicMethod("InfoCopyLaunch", typeof(void), [typeof(Projectile), typeof(Projectile)]);
+        DynamicMethod dynamicMethod = new DynamicMethod("InfoCopyLaunch", typeof(void), [typeof(Projectile), typeof(Projectile)], typeof(Projectile));
         ILGenerator iLGenerator = dynamicMethod.GetILGenerator();
         iLGenerator.Emit(OpCodes.Ldarg_0);
         iLGenerator.Emit(OpCodes.Ldarg_1);
